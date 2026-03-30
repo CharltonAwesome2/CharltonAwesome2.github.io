@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [Here's my CV (PDF)](./charlton-solomons-cv.pdf)
 
-[This is me doing a a mock interview](./charlton-solomons-mock-interview.mp4.mp4)
+[This is me doing a a mock interview](./charlton-solomons-mock-interview.mp4)
