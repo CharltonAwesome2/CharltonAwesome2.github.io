@@ -1,21 +1,29 @@
-## Hi there 👋
+# Charlton Solomons
 
-<!--
-**CharltonAwesome2/CharltonAwesome2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**
 
-Here are some ideas to get you started:
+## About Me
+I'm a software developer balancing industry work with academic studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Materials
 
+| Resource | Description |
+|----------|-------------|
+[My CV (PDF)](./charlton-solomons-cv.pdf) | My resume with education, skills, and experience |
+[Mock Inteverview](./charlton-solomons-mock-interview.mp4) | A video demonstrating my interview skills |
 
-[Here's my CV (PDF)](./charlton-solomons-cv.pdf)
+## Links
 
-[This is me doing a a mock interview](./charlton-solomons-mock-interview.mp4)
+- [My Personal GitHub Profile](https://github.com/CharltonAwesome1)
+- [My Full Portfolio Site](https://CharltonAwesome1.github.io)
+
+## About This Repository
+
+This repository (`CharltonAwesome2.github.io`) was created as part of a student project to demonstrate:
+- Version control using Git and GitHub
+- Deployment of a personal portfolio using GitHub Pages
+- Documentation and presentation of professional materials
+
+## Contact
+
+For academic or professional inquiries, please refer to the contact details provided in my CV.
