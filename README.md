@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[Here's my CV (PDF)](./charlton-solomons-cv.pdf)
+
+[This is me doing a a mock interview](./charlton-solomons-mock-interview.mp4.mp4)
