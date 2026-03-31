@@ -28,3 +28,5 @@ This repository (`CharltonAwesome2.github.io`) and my [GitHub profile](github.co
 ## Contact
 
 For academic or professional inquiries, please refer to the contact details provided in my CV.
+
+<video src="./charlton-solomons-mock-interview.mp4" controls width="600"></video>
