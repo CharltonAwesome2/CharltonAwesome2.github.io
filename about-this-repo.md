@@ -8,7 +8,7 @@ I'm an experienced software developer balancing industry work with academic stud
 
 | Resource | Description |
 |----------|-------------|
-|[My CV (Markdown file)](./charlton-solomons-cv.md) | My resume with education, skills, and experience |
+|[My CV (Markdown file)](./README.md) | My resume with education, skills, and experience |
 |[My CV (PDF)](./charlton-solomons-cv.pdf) | My resume with education, skills, and experience |
 |[Mock Interview](./charlton-solomons-mock-interview.mp4) | A video demonstrating my interview skills |
 
