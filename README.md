@@ -5,14 +5,14 @@
 [About this repository](./about-this-repo.md)
 
 
-**Email:** XXXXXXXXX@mycput.ac.za | **Phone:** 0722107054  
+**Email:** XXXXXXXXX@mycput.ac.za | **Phone:** XXX XXX XXXX  
 **LinkedIn:** [linkedin.com/in/charlton-solomons-66892b184](https://www.linkedin.com/in/charlton-solomons-66892b184) | **GitHub:** [Charlton Solomons](https://github.com/CharltonAwesome2)
 
 ---
 
 ## Career Objective
 
-Full-stack Software Engineer seeking to build secure, scalable web applications using Java, Spring Boot, React, and relational databases, with a strong interest in production deployment and modern authentication systems.
+Full-stack Software Engineer building secure, scalable web applications using Java, Spring Boot, React, and relational databases, with a strong interest in production deployment and modern authentication systems.
 
 ---
 

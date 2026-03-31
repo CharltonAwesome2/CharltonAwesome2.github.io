@@ -19,7 +19,7 @@ I'm an experienced software developer balancing industry work with academic stud
 
 ## About This Repository
 
-This repository (`CharltonAwesome2.github.io`) and my [GitHub profile](github.com/CharltonAwesome2) was created as part of a student project to demonstrate:
+This repository (`CharltonAwesome2.github.io`) and my [GitHub profile](https://github.com/CharltonAwesome2) was created as part of a student project to demonstrate:
 - Version control using Git and GitHub
 - Deployment of a personal portfolio using GitHub Pages
 - Documentation and presentation of professional materials
