@@ -1,8 +1,10 @@
 # Charlton Solomons
-**Software Engineer**
+## Software Engineer
 
 
 [About this repository](./about-this-repo.md)
+
+[Reflections](./star-method-reflections.md)
 
 
 **Email:** XXXXXXXXX@mycput.ac.za | **Phone:** XXX XXX XXXX  

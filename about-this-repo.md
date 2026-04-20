@@ -1,5 +1,5 @@
 # [Charlton Solomons](https://github.com/CharltonAwesome2)
-**Software Engineer**
+## Software Engineer
 
 ## About Me
 I'm an experienced software developer balancing industry work with academic studies.
