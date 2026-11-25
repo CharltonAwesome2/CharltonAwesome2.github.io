@@ -36,6 +36,12 @@ Stakeholder involvement varied between engagements. In some cases, direct stakeh
 
 Because the developer worked independently, responsibilities normally distributed across a development team were handled by the developer. These included technical investigation, implementation, testing, troubleshooting and maintaining the codebase.
 
+**Figure 1: Communication Flow**
+
+The following diagram illustrates the communication arrangement between the developer, supervisor and project stakeholders, including how requirements and feedback were generally communicated.
+
+![Communication Flow](./diagrams/communication-flow.png)
+
 ## 3. Project Scope
 
 The 2026 working period involved four principal professional software development engagements.
@@ -183,6 +189,12 @@ The following workflow represents the general iterative approach used during dev
 8. **Review or handover:** Where applicable, make the completed work available for stakeholder review, deployment or further development.
 
 The workflow was iterative. A requirement could return to analysis or design if testing, research or feedback revealed that a different implementation approach was necessary.
+
+**Figure 2: Development Workflow**
+
+The following diagram illustrates the iterative development workflow, from requirement review and research through implementation, testing, revision and review.
+
+![Development Workflow](./diagrams/development-workflow.png)
 
 ## 9. Managing Changing Requirements
 
