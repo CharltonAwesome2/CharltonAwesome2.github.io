@@ -8,6 +8,16 @@
 
 [WIL application file](./wil_application_results.pdf)
 
+### WIL Agile Portfolio
+
+| Deliverable | Document |
+|---|---|
+| Agile Team Charter | [Team Charter](./wil/01-agile-team-charter/team-charter.md) |
+| User Stories and Tasks | [User Stories and Tasks](./wil/02-user-stories-and-tasks/README.md) |
+| Product Backlog | [Product Backlog](./wil/03-product-backlog/product-backlog.md) |
+| Sprint Backlog | [Sprint Backlog](./wil/04-sprint-backlog/sprint-backlog.md) |
+| Agile Logbook | [Agile Logbook](./wil/05-agile-logbook/logbook.md) |
+
 **Email:** XXXXXXXXX@mycput.ac.za | **Phone:** XXX XXX XXXX  
 **LinkedIn:** [linkedin.com/in/charlton-solomons-66892b184](https://www.linkedin.com/in/charlton-solomons-66892b184) | **GitHub:** [Charlton Solomons](https://github.com/CharltonAwesome2)
 
@@ -22,28 +32,28 @@ Full-stack Software Engineer building secure, scalable web applications using Ja
 ## Work Experience
 
 ### Software Engineer
-**GPG Consulting** | *June 2025 – Present*
+**GPG Consulting** | *June 2025 - Present*
 - Working as a full-stack engineer contributing to production systems across backend and frontend layers.
 - Involved in API development, authentication flows, database interactions, and deployment-oriented workflows.
 
 ### Freelance Software Engineer
-**Self-Employed** | *March 2024 – Present*
+**Self-Employed** | *March 2024 - Present*
 - Delivering full-stack solutions across multiple private and confidential client projects.
 - Working with Java, Spring Boot, React, authentication systems, and Linux-based deployments.
 - Managing end-to-end development cycles, from implementation to deployment.
 
 ### Junior Software Engineer
-**MIP Holdings** | *June 2021 – July 2023*
+**MIP Holdings** | *June 2021 - July 2023*
 - Contributed to backend and automation-focused engineering tasks within a collaborative development environment.
 - Gained early professional experience in structured software development and delivery workflows.
 
 ### Quality Assurance Automation Engineer
-**Inspired Testing** | *March 2019 – August 2020*
+**Inspired Testing** | *March 2019 - August 2020*
 - Built and maintained automated test suites supporting backend and application reliability.
 - Developed a strong foundation in system behaviour, edge cases, and software quality.
 
 ### Service Ambassador (Part-Time)
-**Hussar Grill** | *August 2018 – Present*
+**Hussar Grill** | *August 2018 - Present*
 - Delivered consistent, high-quality customer service in a fast-paced environment, strengthening communication and problem-solving skills.
 - Sustained a long-term part-time role alongside full-time employment and studies, demonstrating exceptional reliability, time management, and commitment.
 
@@ -52,7 +62,7 @@ Full-stack Software Engineer building secure, scalable web applications using Ja
 ## Education
 
 ### Diploma / Degree in Application Development
-**Cape Peninsula University of Technology (CPUT)** | *January 2024 – Present*
+**Cape Peninsula University of Technology (CPUT)** | *January 2024 - Present*
 
 ### National Senior Certificate
 **Hoërskool Labori** | *2014*
